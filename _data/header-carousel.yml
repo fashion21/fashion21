@@ -7,6 +7,7 @@
   tablet-image: https://res.cloudinary.com/f21cosmetics/image/upload/v1628592594/2021_D_991x800_tqicpq.jpg
   small-image: https://res.cloudinary.com/f21cosmetics/image/upload/v1628592592/2021_D_738x483_ubf5pi.jpg
   link: /products/set/travel-set/
+  trigger: "trigger build"
 
 - big-image: https://res.cloudinary.com/f21cosmetics/image/upload/v1628592584/2_trycui.jpg
   tablet-image: https://res.cloudinary.com/f21cosmetics/image/upload/v1628592587/2021_B_991x800_mt05d8.jpg
