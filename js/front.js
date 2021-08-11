@@ -56,6 +56,8 @@ $(document).ready(function () {
 });
 
 $(window).on("load",function () {
+    console.log("Trigger check");
+
     //Instagram Feed
     var feed = new Instafeed({
         accessToken: 'IGQVJVTG1ELUtMb1o5T0VDYUhzN2oyaWZANUzdienZAoZA0RYeXFZATmRmT2JtcUFTaGJUWUptVmM0R2hEN21HYm1FZAHRTMGFGRGREVTFtWUhwenNjTVB4QTYyZAUxGZAFlQWXdIQ2Q3QTk3S09RVUt2aVI2ZAwZDZD',
