@@ -1,47 +1,47 @@
 - title: Double Up Mascara
   id: 1
-  image: https://res.cloudinary.com/f21cosmetics/image/upload/v1597386009/1_double_up_2020.jpg
+  image: https://res.cloudinary.com/f21cosmetics/image/upload/v1539059684/assets/best-seller/best-seller6.jpg
   link: /products/eyes/double-up-mascara/
   mobileID: 1
 
-- title: Powder Lip Matte
+- title: Conceal
   id: 2
-  image: https://res.cloudinary.com/f21cosmetics/image/upload/v1597386009/2_powder_lip_matte_2020.jpg
-  link: /products/lips/powder-lip-matte/
+  image: https://res.cloudinary.com/f21cosmetics/image/upload/c_scale,w_500/v1633409130/assets/best-seller/2.jpg
+  link: /products/face/conceal/
   mobileID: 2
 
-- title: Conceal
+- title: Powder Lip Matte
   id: 3
-  image: https://res.cloudinary.com/f21cosmetics/image/upload/v1597386009/3_conceal_2020.jpg
-  link: /products/face/conceal/
+  image: https://res.cloudinary.com/f21cosmetics/image/upload/c_scale,w_500/v1633409134/assets/best-seller/3.jpg
+  link: /products/lips/powder-lip-matte/
   mobileID: 5
 
-- title: Contouring Kit
+- title: Brow Perfect
   id: 4
-  image: https://res.cloudinary.com/f21cosmetics/image/upload/v1597386009/4_contour_kit_2020.jpg
-  link: /products/cheeks/contouring-kit/
+  image: https://res.cloudinary.com/f21cosmetics/image/upload/c_scale,w_500/v1633409131/assets/best-seller/4.jpg
+  link: /products/eyes/brow-perfect/
   mobileID: 7
 
-- title: Primer Spray
+- title: Ultimate Cover
   id: 5
-  image: https://res.cloudinary.com/f21cosmetics/image/upload/v1597386010/5_primer_spray_2020.jpg
-  link: /products/skin/primer-spray/
+  image: https://res.cloudinary.com/f21cosmetics/image/upload/c_scale,w_500/v1633409131/assets/best-seller/5.jpg
+  link: /products/face/ultimate-cover/
   mobileID: 3
 
-- title: Cheek Tint
+- title: Eyeshadow Travel Set
   id: 6
-  image: https://res.cloudinary.com/f21cosmetics/image/upload/v1597386010/6_cheek_tint_2020.jpg
-  link: /products/cheeks/cheek-tint/
+  image: https://res.cloudinary.com/f21cosmetics/image/upload/c_scale,w_500/v1633409132/assets/best-seller/6.jpg
+  link: /products/set/travel-set/
   mobileID: 4
 
-- title: Color Bar
+- title: Two-Way Cake With Milk Moisturizers
   id: 7
-  image: https://res.cloudinary.com/f21cosmetics/image/upload/v1597386010/7_color_bar_2020.jpg
-  link: /products/set/color-bar/
+  image: https://res.cloudinary.com/f21cosmetics/image/upload/c_scale,w_500/v1633409131/assets/best-seller/7.jpg
+  link: /products/face/two-way-cake-with-milk-moisturizers/
   mobileID: 6
 
-- title: Two Way Cake Papaya
+- title: Liquid Eyeliner
   id: 8
-  image: https://res.cloudinary.com/f21cosmetics/image/upload/v1597386010/8_twc_papaya_2020.jpg
-  link: /products/face/two-way-cake-with-papaya-extract/
+  image: https://res.cloudinary.com/f21cosmetics/image/upload/c_scale,w_500/v1633409132/assets/best-seller/8.jpg
+  link: /products/eyes/liquid-eyeliner-water-resistant/
   mobileID: 8
